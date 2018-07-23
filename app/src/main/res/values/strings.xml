@@ -1,0 +1,58 @@
+<resources>
+    <!--Menu Items-->
+    <string name="app_name">Finale</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+
+    <!--Symptoms-->
+    <string name="fever">Fever</string>
+    <string name="coughing">Coughing</string>
+    <string name="sore_throat">Sore throat</string>
+    <string name="running_nose">Running nose</string>
+    <string name="headache">Headache</string>
+    <string name="slow_pulse">Slow pulse</string>
+    <string name="ulcer">Ulcer</string>
+    <string name="diarrhea">Diarrhea</string>
+    <string name="muscular_cramps">Muscular cramps</string>
+    <string name="dehydration">Dehydration</string>
+    <string name="vomiting">Vomiting</string>
+    <string name="nausea">Nausea</string>
+    <string name="muscular_pain">Muscular pain</string>
+    <string name="chilliness">Chilliness</string>
+    <string name="body_ache">Body ache</string>
+    <string name="loss_of_appetite">Loss of appetite</string>
+    <string name="yellowish_eyes">Yellowish eyes</string>
+    <string name="joint_pains">Joint pains</string>
+    <string name="abdominal_pain">Abdominal pains</string>
+    <string name="red_colored_rash">Red colored rash</string>
+    <string name="scabs">Scabs</string>
+
+    <!--Diseases-->
+    <string name="chicken_pox">Chicken pox</string>
+    <string name="hepatitis">Hepatitis</string>
+    <string name="influenza">Influenza</string>
+    <string name="dengue">Dengue fever</string>
+    <string name="typhoid">Typhoid</string>
+    <string name="cholera">Cholera</string>
+    <string name="malaria">Malaria</string>
+    <string name="amoeba">Amoeba</string>
+
+    <string name="diagnose">Diagnose</string>
+    <string name="predict">Predict</string>
+    <string name="prevention">Prevention</string>
+    <string name="disease_db">Diseases Info</string>
+    <string name="disease">Disease</string>
+    <string name="desc">Description</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="log">Log</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="title_activity_treatment">Treatment</string>
+    <string name="treatment">Treatment</string>
+    <string name="title_activity_sample">Sample</string>
+    <string name="title_activity_prevention">Prevention</string>
+    <string name="title_activity_logs">Logs</string>
+    <string name="title_activity_disease__info">Diseases Log</string>
+    <string name="title_activity_log">Log</string>
+    <string name="title_activity_disease_details">DiseaseDetails</string>
+</resources>

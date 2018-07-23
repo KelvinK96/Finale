@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_desc"
+        android:title="@string/desc" />
+    <item
+        android:id="@+id/menu_symptoms"
+        android:title="@string/symptoms" />
+    <item
+        android:id="@+id/menu_treatment"
+        android:title="@string/treatment" />
+
+</menu>
